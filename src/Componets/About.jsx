@@ -21,7 +21,7 @@ function About() {
       <div className="flex flex-col md:flex-row justify-center items-center px-4 md:px-10 mt-8 md:mt-10 w-full">
         <div className="hidden md:flex w-full md:w-[50%] justify-center items-center mb-8 md:mb-0">
           <img
-            src="/public/image/Jaypal2.jpg"
+            src="./src/assets/Jaypal2.jpg"
             alt="Jaypal"
             className="w-[220px] md:w-[280px] h-auto object-cover rounded-lg shadow-lg hover:w-64 md:hover:w-72 transform hover:scale-110 transition-transform duration-200"
           />

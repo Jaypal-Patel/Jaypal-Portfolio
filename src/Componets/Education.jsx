@@ -23,21 +23,21 @@ function Education() {
           title="React Developer Intern"
           name="Alphawizz Technologies Pvt. Ltd."
           date="June 2024 - August 2024 | Complete"
-          image="./public/image/intern.jpg"
+          image="./src/assets/intern.jpg"
           darkMode={darkMode}
         />
         <EducationCart
           title="Bachelor of Engineering"
           name="Swami Vivekanand College of Engineering | RGPV"
           date="2019-2023 | Complete"
-          image="./public/image/svce.jpeg"
+          image="./src/assets/svce.jpeg"
           darkMode={darkMode}
         />
         <EducationCart
           title="12th | Maths"
           name="Govt. Higher Secondary School | M.P Board"
           date="2019 | Complete"
-          image="./public/image/shcool.jpeg"
+          image="./src/assets/shcool.jpeg"
           darkMode={darkMode}
         />
       </div>

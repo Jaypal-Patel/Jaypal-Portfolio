@@ -105,7 +105,7 @@ function Home() {
         </div>
         <div className="image-box mt-10 md:mt-0 flex justify-center md:justify-end">
           <img
-            src="/public/image/Jaypal.jpg"
+            src="./src/assets/Jaypal.jpg"
             alt="photo"
             className={`relative h-60 w-60 md:h-80 md:w-80 rounded-full shadow-lg hover:shadow-2xl transition-all duration-200 ease-in-out ${
               darkMode ? "border-gray-700" : "border-gray-300"

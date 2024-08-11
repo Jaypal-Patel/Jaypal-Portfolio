@@ -32,7 +32,7 @@ function Contect() {
       >
         <div className="w-full md:w-[50%] flex justify-center mb-6 md:mb-0">
           <img
-            src="./public/image/contact1.png"
+            src="./src/assets/contact1.png"
             alt="Contact"
             className="w-[250px] md:w-[300px] h-auto object-cover rounded-lg hidden md:block"
           />

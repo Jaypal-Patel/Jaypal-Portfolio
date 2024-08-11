@@ -21,19 +21,19 @@ function Project() {
       <div className="w-full flex flex-wrap justify-center md:justify-center gap-1">
         <ProjectCart
           name="VegiFoods"
-          image="./public/image/former1.jpeg"
+          image="./src/assets/former1.jpeg"
           description="Developed an e-commerce website platform designed for farmers to sell their products online."
           link=""
         />
         <ProjectCart
           name="CrickPluse"
-          image="./public/image/crickpluse2.png"
+          image="./src/assets/crickpluse2.png"
           description="Developed a web application focused on the Indian cricket team, providing detailed information on players, support staff, and the BCCI."
           link=""
         />
         <ProjectCart
           name="Zoredh"
-          image="./public/image/zoredha2.png"
+          image="./src/assets/zoredha2.png"
           description="Developed a stock trading platform using React, JavaScript, HTML, CSS, Bootstrap, Material-UI, and Firebase.."
           link=""
         />

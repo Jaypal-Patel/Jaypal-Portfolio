@@ -28,42 +28,42 @@ function Skills() {
       >
         <SkillsCart
           name="HTML"
-          image="/public/image/htmlImg.webp"
+          image="./src/assets/htmlImg.webp"
           rating="Excellent"
         />
         <SkillsCart
           name="CSS"
-          image="/public/image/cssImg.png"
+          image="./src/assets/cssImg.png"
           rating="Excellent"
         />
         <SkillsCart
           name="Tailwind CSS"
-          image="/public/image/tailwind.png"
+          image="./src/assets/tailwind.png"
           rating="Excellent"
         />
         <SkillsCart
           name="JavaScript"
-          image="/public/image/JavaScript-logo.png"
+          image="./src/assets/JavaScript-logo.png"
           rating="Excellent"
         />
         <SkillsCart
           name="ReactJs"
-          image="/public/image/react.png"
+          image="./src/assets/react.png"
           rating="Excellent"
         />
         <SkillsCart
           name="Redux"
-          image="/public/image/redux.png"
+          image="./src/assets/redux.png"
           rating="Excellent"
         />
         <SkillsCart
           name="GitHub"
-          image="/public/image/github.png"
+          image="./src/assets/github.png"
           rating="Intermediate"
         />
         <SkillsCart
           name="Firebase"
-          image="/public/image/firebase.png"
+          image="./src/assets/firebase.png"
           rating="Intermediate"
         />
       </div>
