@@ -1,5 +1,6 @@
 import React from "react";
 import { useSelector } from "react-redux";
+import HomeEffact from "../Utlity/HomeEffact";
 
 import {
   FaGithub,
@@ -13,9 +14,10 @@ function Home() {
 
   return (
     <div>
+      <HomeEffact className="absolute top-0 right-0 left-0 -z-0" />
       <section
         className={`flex flex-col md:flex-row justify-evenly md:items-center h-screen px-4 md:px-8 pt-24 ${
-          darkMode ? "bg-gray-900 text-white" : "bg-white text-black"
+          darkMode ? "bg-gray-900 text-white" : "bg-white text-black "
         }`}
       >
         <div className="text-center md:text-left">
