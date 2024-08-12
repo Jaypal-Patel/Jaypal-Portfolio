@@ -15,7 +15,7 @@ function SkillsCart({ name, image, rating }) {
       <div className="flex justify-center gap-2 mb-2">
         <img
           src={
-            darkMode ? "/public/image/verify2.png" : "/public/image/verify.png"
+            darkMode ? "./src/assets/verify2.png" : "./src/assets/verify.png"
           }
           alt={name}
           className="w-6 h-6 md:w-[30px] md:h-[30px]"
